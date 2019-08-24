@@ -1,0 +1,8 @@
+.sm-header-menu {
+    color: #394B59;
+    margin: auto 10px;
+}
+
+a.sm-header-menu:hover{
+    text-decoration: none;
+}

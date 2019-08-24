@@ -1,0 +1,29 @@
+.sm-course-title {
+    width: 100%;
+}
+
+.sm-course-price {
+    width: 90%;
+}
+
+.sm-course-slug {
+    width: 100%;
+}
+
+.sm-course-desc {
+    width: 100%;
+}
+
+.sm-course-salescopy {
+    width: 100%;
+}
+
+.sm-course-salescopy .ql-editor{
+    height: 295px;
+}
+.sm-course-salescopy .ql-toolbar.ql-snow{
+    border-radius: 5px 5px 0 0;
+}
+.sm-course-salescopy .ql-container.ql-snow {
+    border-radius: 0 0 5px 5px;
+}

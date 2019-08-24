@@ -1,0 +1,4 @@
+.ql-editor  { display: block; }
+.raw-editor { display: none; max-width: 40rem; width: 100%; border-top: none; height: 100%}
+.showRaw .ql-editor  { display: none; }
+.showRaw .raw-editor { display: block; }

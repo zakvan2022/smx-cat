@@ -1,0 +1,24 @@
+.sm-edit-tabcontent .ql-container{
+    min-height: 10px;
+    max-height: 400px;
+}
+.sm-edit-tabcontent .ql-toolbar {
+    /* position: -webkit-sticky;
+    position: sticky;
+    top: 0; */
+    width: calc(100% - 40px);
+    background-color: white;
+    z-index: 3;
+}
+.sm-edit-tabcontent .ql-container.ql-snow{
+    border: none;
+}
+.sm-edit-tabcontent .ql-toolbar.ql-snow{
+    border: none;
+    height: 55px;
+    padding-top: 15px;
+}
+
+.sm-edit-tabcontent .ql-toolbar .ql-insertContent{
+    background-color: aqua;
+}
